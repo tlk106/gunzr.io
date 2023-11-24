@@ -1,2 +1,2 @@
-# gunzr.io
-The 2D topdown battle royale game like surviv.io
+# About
+This game is a 2D topdown battle royale game inspired by surviv.io! It is far from getting out of beta.
